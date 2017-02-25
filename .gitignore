@@ -1,0 +1,13 @@
+# OS-related
+.DS_Store*
+Icon?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.directory
+*~
+
+# npm-related
+node_modules
+*.log

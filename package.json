@@ -1,0 +1,42 @@
+{
+  "name": "highscore",
+  "version": "1.0.0-pre",
+  "description": "A simple, light-weight leaderboard system.",
+  "author": "Aaron Hill (https://github.com/seraku24)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seraku24/highscore.git"
+  },
+  "homepage": "https://github.com/seraku24/highscore#readme",
+  "bugs": {
+    "url": "https://github.com/seraku24/highscore/issues"
+  },
+  "keywords": [
+    "highscore",
+    "score",
+    "stats",
+    "statistics",
+    "leaderboard"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-batch": "^1.0.5",
+    "gulp-mocha": "^3.0.1",
+    "gulp-watch": "^4.3.11",
+    "mocha": "^3.2.0",
+    "sinon": "^1.17.7",
+    "sinon-chai": "^2.8.0"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js",
+    "lib/"
+  ],
+  "scripts": {
+    "test": "gulp test"
+  }
+}
