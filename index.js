@@ -1,4 +1,4 @@
-/*!
+/**
  * highscore
  *
  * @author Aaron Hill (https://github.com/seraku24)
